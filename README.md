@@ -2,7 +2,7 @@
 
 Colab notebook to easily run the AUTOMATIC1111 web-ui with ControlNet integrated.
 
-Just open the notebook on colab and run it.
+Just open the notebook in colab and run it.
 
 Let me know about any bugs.
 
