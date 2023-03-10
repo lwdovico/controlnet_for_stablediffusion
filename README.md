@@ -1,4 +1,8 @@
-# controlnet_for_stablediffusion
+# WARNING: Deprecated
+
+After the migration of colab to python 3.9 it doesn't work anymore, considering now TheLastBen also implemented controlnet in his notebook I suggest using that one: [TheLastBen's repo](https://github.com/TheLastBen/fast-stable-diffusion)
+
+------------------------------
 
 Colab notebook to easily run the AUTOMATIC1111 web-ui with ControlNet integrated.
 
